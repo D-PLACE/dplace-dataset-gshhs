@@ -1,0 +1,8 @@
+{
+    "id": "dplace-dataset-gshhs",
+    "title": "D-PLACE dataset derived from Wessel and Smith 2015 'Global Self-consistent, Hierarchical, High-resolution Geography Database'",
+    "description": "Distance to coast extracted from the High-resolution Geography Database (GSHHS)",
+    "license": "LGPL-3.0",
+    "url": "https://www.ngdc.noaa.gov/mgg/shorelines/gshhs.html",
+    "citation": "Wessel, P., and W. H. F. Smith (1996), A global, self-consistent, hierarchical, high-resolution shoreline database, J. Geophys. Res., 101(B4), 8741–8743, doi:10.1029/96JB00104.\n\nWessel P, Smith, W. H. F. Global Self-consistent, Hierarchical, High-resolution Geography Database (GSHHS) v2.3.4 [Internet]. 2015. Available: https://www.ngdc.noaa.gov/mgg/shorelines/gshhs.html"
+}

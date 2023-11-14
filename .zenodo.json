@@ -1,0 +1,88 @@
+{
+    "creators": [
+        {
+            "name": "P. Wessel"
+        },
+        {
+            "name": "W. H. F. Smith"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Kathryn R. Kirby",
+            "type": "Editor"
+        },
+        {
+            "name": "Russell D. Gray",
+            "type": "Editor"
+        },
+        {
+            "name": "Simon J. Greenhill",
+            "type": "Editor"
+        },
+        {
+            "name": "Fiona M. Jordan",
+            "type": "Editor"
+        },
+        {
+            "name": "Stephanie Gomes-Ng",
+            "type": "Editor"
+        },
+        {
+            "name": "Hans-J\u00f6rg Bibiko",
+            "type": "Editor"
+        },
+        {
+            "name": "Dami\u00e1n E. Blasi",
+            "type": "Editor"
+        },
+        {
+            "name": "Carlos A. Botero",
+            "type": "Editor"
+        },
+        {
+            "name": "Claire Bowern",
+            "type": "Editor"
+        },
+        {
+            "name": "Carol R. Ember",
+            "type": "Editor"
+        },
+        {
+            "name": "Dan Leehr",
+            "type": "Editor"
+        },
+        {
+            "name": "Bobbi S. Low",
+            "type": "Editor"
+        },
+        {
+            "name": "Joe McCarter",
+            "type": "Editor"
+        },
+        {
+            "name": "William Divale",
+            "type": "Editor"
+        },
+        {
+            "name": "Michael C. Gavin",
+            "type": "Editor"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "dplace"
+        }
+    ],
+    "title": "D-PLACE dataset derived from Wessel and Smith 2015 'Global Self-consistent, Hierarchical, High-resolution Geography Database'",
+    "access_right": "open",
+    "keywords": [
+        "cldf:StructureDataset",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Wessel, P., and W. H. F. Smith (1996), A global, self-consistent, hierarchical, high-resolution shoreline database, J. Geophys. Res., 101(B4), 8741\u20138743, doi:10.1029/96JB00104.\n\nWessel P, Smith, W. H. F. Global Self-consistent, Hierarchical, High-resolution Geography Database (GSHHS) v2.3.4 [Internet]. 2015. Available: https://www.ngdc.noaa.gov/mgg/shorelines/gshhs.html</p>\n</blockquote>",
+    "license": {
+        "id": "LGPL-3.0"
+    }
+}

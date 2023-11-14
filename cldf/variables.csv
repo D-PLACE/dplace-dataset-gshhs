@@ -1,0 +1,2 @@
+ID,Name,Description,ColumnSpec,category,type,unit,source_comment,changes,comment
+DistToCoast_km,Distance to coast,Distance to coast,"{""datatype"": ""decimal""}",Physical Landscape,Continuous,km,High-resolution Geography Database,,
